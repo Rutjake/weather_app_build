@@ -7,6 +7,10 @@ The Weather app has a dynamic background that changes when the weather is cold o
 The app retrieves data from the OpenWeather api
 https://openweathermap.org/
 
+## Link
+You can try the app at:
+https://rutjake.github.io/weather_app_build/
+
 ## Source Code And Documentation
 Please take a look:<br>
 https://github.com/rutjake/weather_app/
