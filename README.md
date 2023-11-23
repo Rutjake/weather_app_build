@@ -6,6 +6,7 @@ The weather application is a web application where you can find the current weat
 The Weather app has a dynamic background that changes when the weather is cold or warm.
 The app retrieves data from the OpenWeather api
 https://openweathermap.org/
+![saaEtusivu](https://github.com/Rutjake/weather_app_build/assets/77888584/d58597c9-3264-47ab-8ab7-cfe3264efbe9)
 
 ## Link
 You can try the app at:<br>
