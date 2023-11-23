@@ -8,7 +8,7 @@ The app retrieves data from the OpenWeather api
 https://openweathermap.org/
 
 ## Link
-You can try the app at:
+You can try the app at:<br>
 https://rutjake.github.io/weather_app_build/
 
 ## Source Code And Documentation
